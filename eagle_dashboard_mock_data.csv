@@ -1,0 +1,201 @@
+Client_Name,Sector,Location,Guard_Count,Monthly_Deal_Value,Certification_Valid (%),Incident_Reports,SLA_Breaches,Lead_Status,Pitch_Success (%),Compliance_Flag
+Indus Enterprises,Corporate,Andheri,43,"? 2,88,067.00",93,0,0,Pitch_Ongoing,81,Compliant
+SecureMax Group,Residential,Malad,8,"? 2,72,864.00",62,0,0,Converted,81,Compliant
+RetailOne Corp,Industrial,Malad,10,"? 2,38,926.00",71,0,0,Pitch_Ongoing,65,Compliant
+Urban Enterprises,Residential,Navi Mumbai,49,"? 2,21,334.00",60,3,0,Converted,67,Compliant
+RetailOne Enterprises,Residential,Thane,36,"? 2,18,152.00",64,5,0,Cold_Lead,79,Compliant
+SecureMax Systems,Retail,Thane,34,"? 1,82,396.00",89,3,0,Cold_Lead,92,Compliant
+Indus Corp,Industrial,Borivali,39,"? 1,41,267.00",89,5,1,Pitch_Ongoing,92,Compliant
+ABC Solutions,Industrial,Navi Mumbai,44,"? 2,16,981.00",76,1,2,Converted,91,Compliant
+Urban Infra,Industrial,Malad,20,"? 2,70,411.00",82,2,0,Cold_Lead,36,Compliant
+BuildRight Corp,Residential,Vashi,17,"? 69,870.00",74,2,0,Pitch_Ongoing,56,Compliant
+SecureMax Infra,Corporate,Navi Mumbai,46,"? 2,15,650.00",96,3,0,Converted,43,Compliant
+BuildRight Systems,Industrial,Borivali,34,"? 2,53,196.00",80,1,1,Converted,34,Compliant
+SecureMax Enterprises,Residential,Borivali,23,"? 2,98,683.00",73,1,0,Pitch_Ongoing,84,Compliant
+Indus Infra,Retail,Navi Mumbai,21,"? 2,84,677.00",61,0,0,Converted,31,Compliant
+SecureMax Systems,Corporate,Borivali,23,"? 76,790.00",70,1,0,Cold_Lead,91,Compliant
+RetailOne Systems,Retail,Navi Mumbai,32,"? 1,68,874.00",98,1,1,Converted,50,Compliant
+Indus Group,Corporate,Andheri,30,"? 75,289.00",97,2,0,Converted,50,Compliant
+SecureMax Corp,Residential,Navi Mumbai,41,"? 2,36,201.00",93,3,0,Cold_Lead,39,Compliant
+BuildRight Infra,Construction,Navi Mumbai,30,"? 2,74,786.00",97,4,1,Converted,87,Compliant
+BuildRight Infra,Corporate,Borivali,27,"? 2,75,318.00",93,0,0,Pitch_Ongoing,68,Compliant
+ABC Enterprises,Retail,Borivali,13,"? 65,485.00",77,3,1,Converted,34,Compliant
+Indus Infra,Residential,Thane,16,"? 94,482.00",89,1,2,Converted,94,Compliant
+RetailOne Group,Corporate,Thane,5,"? 1,36,188.00",74,2,3,Pitch_Ongoing,42,Compliant
+Indus Group,Construction,Andheri,5,"? 54,748.00",86,2,1,Pitch_Ongoing,82,Compliant
+ABC Infra,Construction,Thane,38,"? 2,67,841.00",93,1,0,Pitch_Ongoing,74,Compliant
+BuildRight Corp,Industrial,Navi Mumbai,36,"? 1,90,507.00",97,3,0,Pitch_Ongoing,61,Compliant
+ABC Solutions,Industrial,Borivali,29,"? 53,709.00",92,3,0,Pitch_Ongoing,65,Compliant
+Indus Solutions,Retail,Thane,44,"? 1,73,961.00",83,1,0,Converted,89,Compliant
+ABC Corp,Corporate,Thane,49,"? 80,355.00",74,2,0,Converted,40,Compliant
+BuildRight Enterprises,Corporate,Andheri,5,"? 2,36,843.00",89,0,0,Cold_Lead,92,Compliant
+BuildRight Solutions,Industrial,Malad,20,"? 2,38,871.00",76,1,2,Pitch_Ongoing,50,Compliant
+SecureMax Corp,Corporate,Andheri,43,"? 1,94,188.00",64,1,0,Pitch_Ongoing,81,At Risk
+Indus Corp,Corporate,Navi Mumbai,9,"? 2,06,542.00",88,2,1,Converted,84,At Risk
+Urban Group,Construction,Borivali,26,"? 2,23,416.00",63,2,1,Converted,55,Compliant
+Urban Solutions,Industrial,Andheri,33,"? 92,918.00",69,0,0,Pitch_Ongoing,63,Compliant
+RetailOne Solutions,Residential,Thane,7,"? 1,02,224.00",76,0,1,Cold_Lead,81,Compliant
+BuildRight Infra,Industrial,Borivali,16,"? 89,298.00",69,0,1,Pitch_Ongoing,81,Compliant
+Urban Infra,Residential,Borivali,30,"? 2,89,564.00",76,2,0,Cold_Lead,58,Compliant
+Urban Enterprises,Construction,Thane,20,"? 1,30,219.00",79,1,2,Pitch_Ongoing,67,Compliant
+RetailOne Enterprises,Retail,Andheri,41,"? 1,11,629.00",83,0,1,Converted,71,Compliant
+Urban Group,Corporate,Thane,26,"? 1,16,040.00",64,2,1,Converted,50,Compliant
+ABC Group,Construction,Malad,33,"? 2,80,590.00",93,1,0,Converted,71,Compliant
+ABC Corp,Corporate,Borivali,18,"? 2,80,907.00",65,2,2,Converted,42,Compliant
+RetailOne Corp,Retail,Vashi,32,"? 78,016.00",61,2,1,Cold_Lead,93,Compliant
+SecureMax Group,Retail,Vashi,9,"? 73,960.00",72,3,0,Converted,46,Compliant
+BuildRight Corp,Construction,Navi Mumbai,34,"? 83,591.00",70,3,1,Pitch_Ongoing,38,Compliant
+ABC Enterprises,Retail,Thane,9,"? 2,63,920.00",82,2,0,Converted,70,Compliant
+BuildRight Systems,Residential,Thane,16,"? 1,53,333.00",75,0,1,Converted,30,Compliant
+BuildRight Enterprises,Retail,Navi Mumbai,20,"? 2,92,804.00",90,0,0,Converted,31,Compliant
+Urban Infra,Corporate,Navi Mumbai,30,"? 1,64,821.00",70,2,0,Converted,89,Compliant
+BuildRight Enterprises,Corporate,Navi Mumbai,30,"? 2,48,713.00",75,0,0,Pitch_Ongoing,77,Compliant
+RetailOne Solutions,Corporate,Borivali,25,"? 86,395.00",67,0,1,Converted,58,Compliant
+Urban Infra,Corporate,Malad,43,"? 2,92,348.00",63,3,1,Pitch_Ongoing,39,At Risk
+ABC Infra,Residential,Thane,40,"? 1,79,695.00",99,2,1,Converted,87,Compliant
+RetailOne Infra,Industrial,Borivali,37,"? 2,03,772.00",63,1,0,Converted,89,Compliant
+SecureMax Group,Construction,Navi Mumbai,34,"? 84,620.00",84,1,2,Converted,50,At Risk
+BuildRight Group,Corporate,Thane,41,"? 2,84,286.00",62,2,0,Pitch_Ongoing,57,Compliant
+BuildRight Systems,Retail,Borivali,27,"? 1,78,148.00",91,2,0,Pitch_Ongoing,63,Compliant
+Urban Systems,Corporate,Malad,14,"? 70,559.00",62,1,0,Converted,37,Compliant
+Indus Group,Retail,Borivali,9,"? 2,74,117.00",86,2,1,Converted,88,Compliant
+ABC Solutions,Retail,Malad,40,"? 1,43,396.00",88,2,0,Pitch_Ongoing,78,Compliant
+RetailOne Solutions,Corporate,Navi Mumbai,38,"? 2,42,714.00",91,0,0,Converted,46,Compliant
+Urban Systems,Residential,Malad,35,"? 2,57,611.00",78,1,0,Converted,89,Compliant
+SecureMax Group,Retail,Thane,14,"? 71,732.00",80,1,0,Cold_Lead,74,Compliant
+Urban Enterprises,Retail,Navi Mumbai,23,"? 1,41,362.00",64,6,0,Pitch_Ongoing,61,Compliant
+Indus Systems,Corporate,Thane,36,"? 2,11,426.00",77,1,0,Converted,73,Compliant
+ABC Enterprises,Retail,Vashi,5,"? 63,843.00",87,0,0,Cold_Lead,94,Compliant
+RetailOne Group,Retail,Andheri,9,"? 2,91,080.00",81,2,1,Pitch_Ongoing,37,Compliant
+Indus Enterprises,Corporate,Malad,49,"? 1,64,065.00",80,3,1,Converted,72,Compliant
+Urban Group,Corporate,Andheri,8,"? 1,21,726.00",65,6,1,Pitch_Ongoing,30,Compliant
+RetailOne Infra,Construction,Andheri,20,"? 67,640.00",60,1,1,Pitch_Ongoing,80,Compliant
+ABC Group,Residential,Malad,28,"? 1,02,528.00",64,0,0,Converted,53,Compliant
+BuildRight Solutions,Residential,Navi Mumbai,20,"? 88,413.00",71,3,0,Converted,53,Compliant
+BuildRight Infra,Retail,Vashi,6,"? 1,02,638.00",85,5,0,Converted,46,At Risk
+Indus Solutions,Residential,Thane,32,"? 2,33,808.00",93,2,0,Pitch_Ongoing,34,Compliant
+Indus Enterprises,Retail,Borivali,36,"? 2,88,964.00",73,2,0,Converted,49,Compliant
+Urban Systems,Construction,Thane,31,"? 1,60,133.00",85,2,0,Cold_Lead,50,Compliant
+ABC Group,Corporate,Borivali,24,"? 1,56,357.00",86,2,0,Pitch_Ongoing,87,Compliant
+Urban Enterprises,Corporate,Thane,28,"? 2,49,938.00",68,3,0,Converted,60,Compliant
+SecureMax Group,Corporate,Malad,16,"? 2,00,159.00",85,2,1,Pitch_Ongoing,40,At Risk
+ABC Group,Residential,Vashi,39,"? 2,22,502.00",81,2,1,Converted,81,Compliant
+Indus Corp,Construction,Borivali,37,"? 2,05,576.00",89,2,0,Pitch_Ongoing,44,Compliant
+ABC Systems,Residential,Navi Mumbai,37,"? 1,88,186.00",76,4,0,Pitch_Ongoing,36,Compliant
+SecureMax Group,Residential,Thane,47,"? 1,28,859.00",85,2,0,Converted,57,Compliant
+Urban Group,Construction,Thane,41,"? 1,49,657.00",95,1,1,Converted,80,Compliant
+SecureMax Corp,Construction,Borivali,16,"? 1,92,047.00",60,1,1,Converted,87,Compliant
+ABC Group,Construction,Navi Mumbai,7,"? 61,023.00",67,0,0,Converted,34,Compliant
+SecureMax Corp,Construction,Navi Mumbai,5,"? 71,447.00",94,1,1,Converted,34,Compliant
+Indus Group,Corporate,Malad,37,"? 2,71,541.00",74,1,0,Converted,37,Compliant
+RetailOne Enterprises,Industrial,Malad,44,"? 1,75,899.00",81,2,0,Cold_Lead,93,At Risk
+Indus Corp,Industrial,Malad,14,"? 73,959.00",73,3,0,Converted,39,Compliant
+ABC Solutions,Construction,Malad,47,"? 1,16,203.00",85,2,0,Converted,67,Compliant
+BuildRight Solutions,Industrial,Malad,48,"? 1,69,156.00",87,0,0,Pitch_Ongoing,37,Compliant
+BuildRight Systems,Industrial,Malad,33,"? 2,10,775.00",82,1,0,Converted,54,Compliant
+Indus Corp,Construction,Vashi,17,"? 59,337.00",73,4,0,Cold_Lead,79,At Risk
+SecureMax Solutions,Industrial,Navi Mumbai,16,"? 96,427.00",83,3,0,Pitch_Ongoing,78,Compliant
+RetailOne Solutions,Residential,Malad,35,"? 1,11,529.00",61,1,1,Pitch_Ongoing,65,Compliant
+Indus Solutions,Retail,Navi Mumbai,6,"? 1,52,023.00",85,1,1,Converted,70,At Risk
+ABC Infra,Retail,Navi Mumbai,39,"? 1,34,665.00",73,3,0,Converted,91,Compliant
+RetailOne Systems,Construction,Andheri,27,"? 1,55,787.00",66,2,1,Converted,39,At Risk
+BuildRight Corp,Corporate,Vashi,21,"? 2,12,993.00",62,1,0,Cold_Lead,50,Compliant
+RetailOne Corp,Construction,Malad,30,"? 83,307.00",82,2,0,Converted,65,Compliant
+Urban Systems,Corporate,Thane,12,"? 2,08,427.00",77,0,0,Converted,41,Compliant
+Urban Systems,Retail,Borivali,33,"? 2,84,340.00",97,0,0,Cold_Lead,31,Compliant
+SecureMax Group,Construction,Thane,30,"? 1,77,016.00",94,0,0,Converted,42,At Risk
+Indus Enterprises,Residential,Vashi,14,"? 54,835.00",74,1,1,Converted,82,Compliant
+RetailOne Systems,Industrial,Borivali,30,"? 70,159.00",84,0,0,Converted,61,Compliant
+BuildRight Corp,Corporate,Vashi,38,"? 2,85,418.00",96,3,0,Cold_Lead,45,Compliant
+SecureMax Corp,Industrial,Navi Mumbai,45,"? 2,28,677.00",87,2,1,Converted,61,Compliant
+Urban Group,Industrial,Borivali,11,"? 1,71,790.00",69,5,0,Pitch_Ongoing,61,Compliant
+SecureMax Solutions,Construction,Navi Mumbai,8,"? 1,55,616.00",98,4,0,Pitch_Ongoing,40,At Risk
+RetailOne Systems,Industrial,Thane,49,"? 2,19,160.00",76,1,1,Converted,39,Compliant
+RetailOne Corp,Residential,Thane,15,"? 1,28,752.00",98,3,0,Pitch_Ongoing,44,Compliant
+RetailOne Group,Industrial,Borivali,33,"? 1,05,284.00",81,1,0,Converted,46,Compliant
+SecureMax Corp,Construction,Borivali,40,"? 1,07,043.00",85,1,0,Converted,69,Compliant
+BuildRight Group,Residential,Malad,29,"? 2,16,619.00",84,0,0,Pitch_Ongoing,47,Compliant
+BuildRight Infra,Retail,Vashi,25,"? 1,47,007.00",76,3,0,Cold_Lead,84,Compliant
+BuildRight Systems,Industrial,Malad,40,"? 1,32,844.00",72,2,1,Pitch_Ongoing,54,At Risk
+Indus Corp,Construction,Vashi,14,"? 77,532.00",79,2,0,Pitch_Ongoing,88,Compliant
+ABC Enterprises,Retail,Malad,41,"? 2,15,421.00",84,3,1,Converted,51,Compliant
+RetailOne Enterprises,Retail,Navi Mumbai,13,"? 1,72,402.00",63,2,0,Converted,59,Compliant
+Indus Infra,Corporate,Borivali,28,"? 1,68,012.00",69,3,0,Converted,73,At Risk
+SecureMax Group,Residential,Thane,39,"? 2,26,517.00",62,2,1,Converted,61,Compliant
+Urban Solutions,Industrial,Vashi,39,"? 1,86,785.00",77,2,0,Converted,80,Compliant
+Urban Infra,Construction,Vashi,40,"? 1,06,178.00",95,0,0,Converted,75,Compliant
+RetailOne Infra,Corporate,Thane,22,"? 99,407.00",81,2,1,Converted,50,Compliant
+BuildRight Systems,Residential,Malad,43,"? 2,51,412.00",93,0,0,Converted,61,Compliant
+RetailOne Systems,Corporate,Vashi,36,"? 1,00,990.00",67,0,0,Pitch_Ongoing,68,Compliant
+Urban Corp,Residential,Navi Mumbai,28,"? 2,56,744.00",99,0,0,Cold_Lead,41,Compliant
+ABC Infra,Residential,Borivali,27,"? 1,79,473.00",78,0,0,Converted,76,Compliant
+Urban Group,Industrial,Thane,36,"? 2,46,617.00",96,2,1,Cold_Lead,47,At Risk
+ABC Group,Residential,Borivali,41,"? 2,65,863.00",65,1,0,Cold_Lead,50,Compliant
+BuildRight Infra,Corporate,Vashi,16,"? 1,08,141.00",85,1,1,Converted,42,Compliant
+ABC Corp,Residential,Vashi,17,"? 2,04,865.00",93,1,0,Pitch_Ongoing,50,Compliant
+SecureMax Infra,Industrial,Thane,27,"? 1,06,570.00",65,1,1,Pitch_Ongoing,37,Compliant
+RetailOne Group,Industrial,Navi Mumbai,29,"? 2,76,156.00",96,3,0,Pitch_Ongoing,75,Compliant
+RetailOne Enterprises,Corporate,Andheri,39,"? 2,18,964.00",92,1,0,Converted,36,Compliant
+SecureMax Infra,Retail,Thane,45,"? 51,015.00",81,0,0,Pitch_Ongoing,52,Compliant
+RetailOne Solutions,Retail,Andheri,34,"? 1,11,813.00",80,1,0,Converted,51,Compliant
+SecureMax Systems,Residential,Malad,21,"? 77,712.00",65,2,0,Pitch_Ongoing,51,Compliant
+ABC Systems,Construction,Andheri,24,"? 1,50,497.00",65,6,0,Pitch_Ongoing,58,Compliant
+RetailOne Systems,Residential,Navi Mumbai,29,"? 1,89,487.00",63,0,0,Pitch_Ongoing,42,Compliant
+BuildRight Solutions,Corporate,Malad,26,"? 2,92,926.00",89,2,2,Pitch_Ongoing,31,Compliant
+ABC Solutions,Corporate,Andheri,17,"? 1,62,816.00",70,1,0,Pitch_Ongoing,58,Compliant
+Urban Enterprises,Corporate,Malad,23,"? 1,78,778.00",89,0,1,Converted,81,Compliant
+RetailOne Corp,Corporate,Andheri,40,"? 1,12,292.00",90,1,0,Converted,56,Compliant
+RetailOne Infra,Corporate,Navi Mumbai,16,"? 73,833.00",83,4,1,Cold_Lead,79,Compliant
+SecureMax Systems,Industrial,Andheri,45,"? 1,85,230.00",68,2,2,Converted,52,Compliant
+SecureMax Systems,Retail,Andheri,23,"? 2,43,752.00",62,1,0,Converted,73,Compliant
+SecureMax Corp,Corporate,Andheri,16,"? 70,309.00",90,3,0,Converted,51,Compliant
+Indus Infra,Construction,Thane,13,"? 56,970.00",99,2,2,Converted,72,At Risk
+Urban Group,Construction,Thane,11,"? 1,22,474.00",96,3,0,Cold_Lead,66,At Risk
+ABC Group,Construction,Thane,32,"? 2,67,776.00",95,1,2,Pitch_Ongoing,90,At Risk
+SecureMax Group,Construction,Navi Mumbai,18,"? 96,540.00",83,0,2,Cold_Lead,85,Compliant
+ABC Group,Industrial,Malad,35,"? 2,01,456.00",90,1,0,Pitch_Ongoing,32,Compliant
+Indus Solutions,Construction,Vashi,23,"? 68,017.00",65,3,0,Converted,92,At Risk
+SecureMax Corp,Corporate,Andheri,20,"? 1,25,880.00",61,1,0,Converted,48,Compliant
+Indus Corp,Residential,Andheri,9,"? 1,55,570.00",79,1,0,Pitch_Ongoing,52,Compliant
+SecureMax Corp,Construction,Navi Mumbai,39,"? 58,702.00",87,2,0,Converted,58,Compliant
+Indus Enterprises,Industrial,Andheri,16,"? 1,81,456.00",70,2,3,Cold_Lead,59,Compliant
+RetailOne Solutions,Industrial,Thane,29,"? 50,404.00",63,4,0,Cold_Lead,68,At Risk
+RetailOne Solutions,Construction,Vashi,25,"? 2,22,015.00",74,3,0,Converted,54,Compliant
+SecureMax Corp,Residential,Borivali,40,"? 2,28,998.00",65,1,1,Cold_Lead,37,Compliant
+Urban Corp,Construction,Andheri,27,"? 2,10,261.00",89,0,1,Cold_Lead,87,Compliant
+Urban Systems,Industrial,Thane,20,"? 62,763.00",97,0,2,Pitch_Ongoing,45,Compliant
+RetailOne Systems,Retail,Borivali,43,"? 1,99,456.00",61,1,1,Converted,30,Compliant
+Indus Corp,Corporate,Vashi,49,"? 2,41,172.00",74,1,0,Converted,34,Compliant
+ABC Infra,Industrial,Borivali,46,"? 1,48,142.00",70,1,1,Pitch_Ongoing,32,Compliant
+ABC Corp,Construction,Thane,43,"? 1,90,932.00",67,4,1,Converted,94,At Risk
+ABC Systems,Corporate,Malad,18,"? 2,85,365.00",85,1,0,Converted,33,Compliant
+BuildRight Infra,Construction,Malad,35,"? 1,30,642.00",64,1,0,Pitch_Ongoing,93,Compliant
+RetailOne Corp,Construction,Borivali,9,"? 1,00,612.00",65,2,0,Converted,39,Compliant
+ABC Solutions,Retail,Navi Mumbai,39,"? 73,574.00",85,0,0,Pitch_Ongoing,50,Compliant
+RetailOne Infra,Corporate,Borivali,27,"? 73,524.00",63,0,0,Cold_Lead,75,Compliant
+SecureMax Solutions,Corporate,Andheri,33,"? 2,50,244.00",78,1,0,Cold_Lead,56,Compliant
+SecureMax Enterprises,Retail,Andheri,47,"? 60,916.00",79,0,0,Converted,70,Compliant
+BuildRight Solutions,Industrial,Malad,15,"? 54,809.00",92,1,0,Cold_Lead,42,Compliant
+Indus Solutions,Construction,Navi Mumbai,22,"? 2,13,273.00",79,1,0,Converted,38,At Risk
+Urban Systems,Residential,Thane,16,"? 2,34,402.00",71,1,1,Converted,65,Compliant
+Urban Systems,Construction,Andheri,13,"? 1,94,528.00",60,2,0,Pitch_Ongoing,87,Compliant
+RetailOne Systems,Construction,Malad,14,"? 2,94,820.00",85,0,0,Converted,83,Compliant
+ABC Corp,Industrial,Vashi,48,"? 2,37,469.00",73,2,3,Converted,41,Compliant
+BuildRight Enterprises,Construction,Malad,21,"? 1,71,288.00",97,2,0,Pitch_Ongoing,43,Compliant
+RetailOne Enterprises,Retail,Andheri,42,"? 88,765.00",96,3,0,Converted,63,At Risk
+BuildRight Systems,Retail,Andheri,11,"? 2,15,888.00",70,0,0,Converted,82,At Risk
+SecureMax Corp,Corporate,Malad,17,"? 95,106.00",95,4,0,Converted,49,Compliant
+BuildRight Group,Residential,Thane,44,"? 1,03,932.00",72,2,0,Pitch_Ongoing,45,At Risk
+BuildRight Solutions,Construction,Borivali,46,"? 1,98,172.00",62,3,0,Pitch_Ongoing,85,Compliant
+ABC Corp,Construction,Andheri,13,"? 1,07,091.00",92,0,0,Converted,87,Compliant
+ABC Group,Industrial,Malad,31,"? 71,949.00",65,0,1,Converted,33,Compliant
+BuildRight Systems,Retail,Malad,6,"? 2,51,152.00",69,2,0,Converted,33,At Risk
+Indus Systems,Residential,Navi Mumbai,9,"? 87,744.00",64,3,1,Converted,49,Compliant
+ABC Group,Corporate,Borivali,33,"? 2,26,615.00",82,2,1,Pitch_Ongoing,39,Compliant
+SecureMax Infra,Retail,Vashi,41,"? 1,58,319.00",69,0,2,Converted,53,Compliant
+ABC Solutions,Corporate,Thane,42,"? 1,42,193.00",61,2,0,Converted,55,Compliant
+RetailOne Systems,Industrial,Vashi,23,"? 86,187.00",72,5,0,Pitch_Ongoing,66,Compliant
+Indus Enterprises,Industrial,Borivali,12,"? 2,93,806.00",99,1,0,Pitch_Ongoing,83,At Risk
+RetailOne Corp,Construction,Borivali,49,"? 1,88,311.00",61,2,0,Pitch_Ongoing,50,Compliant
+Indus Enterprises,Residential,Borivali,5,"? 1,74,454.00",79,3,1,Converted,67,Compliant
+RetailOne Group,Corporate,Vashi,26,"? 64,489.00",60,1,2,Converted,75,At Risk
