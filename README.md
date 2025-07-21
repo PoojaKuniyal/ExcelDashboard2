@@ -1,4 +1,4 @@
-# 🛡️ Security & Personnel Services Dashboard  
+# 🛡️ Security & Personnel Services Dashboard  -> Market Strategy and client Development tracker
 **Business Analytics Portfolio – Excel 2016**
 
 ## 📁 Overview  
@@ -60,11 +60,5 @@ Pitch_Efficiency            =IF([@[Pitch_Success (%)]]>=80,"High", IF([@[Pitch_S
    - Clients served by highly certified guards tend to report fewer incidents  
    ➤ Visual proof of training ROI
 
----
 
-## 🚀 Outcome  
-✔ Simulates real-world reporting for service companies  
-✔ Elevates operational metrics into strategic narratives  
-✔ Demonstrates Excel dashboarding, data prep, and analytical storytelling  
-✔ Portfolio-ready for analyst roles in traditional industries
 
